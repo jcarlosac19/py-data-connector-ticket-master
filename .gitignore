@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+gc_service_account.json
+service_account.json
 
 # C extensions
 *.so
